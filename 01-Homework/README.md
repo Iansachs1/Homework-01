@@ -10,10 +10,10 @@ To impress clients, you should always go the extra mile and improve their codeba
 
 Using the Develop folder as a starting point:
 - Edit the HTML file to use semantic elements  
-- Add alt tags to each of the image elements
+- Add alt tags to each of the image elements (done)
 - Verify that all links are working (including images)
 - Refactor the CSS file to be more concise
-- Edit the title element to something descriptive and concise.
+- Edit the title element to something descriptive and concise. (done)
 
 Here's a couple of links that should help you get started:
 
