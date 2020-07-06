@@ -41,5 +41,7 @@
 
     .search-engine-optimization, .online-reputation-management, .social-media-marketing all have the same styles applied combined to one class .content-articles (changed class selectors for img and h2 tags contained in these articles as well)
 
-    
+7. added comments to HMTL
+
+8. added comments to CSS
 

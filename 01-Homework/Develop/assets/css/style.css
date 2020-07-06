@@ -1,3 +1,4 @@
+/* main body general formatting */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* styling top header and navbar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* styling company name in header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* color seo in horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* navbar specific styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +46,7 @@ body {
     margin-left: 25px;
 }
 
+/* link and paragraph styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* background image linking and styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +66,7 @@ p {
     background-position: center;
 }
 
+/* positioning images in main content articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/* general formatting for main content section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* general formatting for sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +96,7 @@ p {
     background-color: #2589bd;
 }
 
+/* sidebar subsections text formatting */
 .benefit-sections {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,12 +107,14 @@ p {
     text-align: center;
 }
 
+/* formatting for images contained in sidebar */
 .benefit-sections img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* general formatting for articles and headers contained in the main content section */
 .content-articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,15 +124,17 @@ p {
     color: #ffffff;
 }
 
-.content-articles img {
-    max-height: 200px;
-}
-
 .content-articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* formatting images contained in articles in main content section */
+.content-articles img {
+    max-height: 200px;
+}
+
+/* general footer formatting */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,6 +142,7 @@ p {
     text-align: center;
 }
 
+/* font size for main text in footer */
 .footer h2 {
     font-size: 20px;
 }
